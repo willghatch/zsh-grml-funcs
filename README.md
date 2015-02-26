@@ -11,9 +11,9 @@ For the lazy:
     git clone https://github.com/willghatch/zsh-grml-funcs
     echo "source zsh-snippets/zsh-grml-funcs.plugin.zsh" >> ~/.zshrc
 
-Better, use [antigen](https://github.com/zsh-users/antigen) or [antigen-hs](https://github.com/Tarrasch/antigen-hs).  Here is how to do it with antigen:
+Better, use [zgen](https://github.com/tarjoilija/zgen) or antigen.  Here is how to do it with zgen:
 
-    antigen bundle willghatch/zsh-grml-funcs
+    zgen load willghatch/zsh-grml-funcs
 
 What is this?
 -------------
